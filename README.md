@@ -1,2 +1,2 @@
-# Huffman-And-Iz77-Image-Compression
+# Huffman-And-IZ77-Image-Compression
 TODO

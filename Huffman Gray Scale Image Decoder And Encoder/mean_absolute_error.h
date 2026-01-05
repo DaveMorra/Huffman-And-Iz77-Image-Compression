@@ -1,0 +1,9 @@
+#ifndef MEANERROR_H
+#define MEANERROR_H
+
+#include <stdio.h>
+#include "libpnm.h"
+
+float mean_absolute_error(char *file_name_1_ptr, char *file_name_2_ptr);
+
+#endif

@@ -11,8 +11,9 @@
 
 ## Overview
 
-This project implements **lossless image compression and decompression** for grayscale PGM images using **Huffman coding**. The system includes **two core algorithms**:
+This project implements **lossless image compression and decompression** for grayscale PGM images using **Huffman** and **IZ77** compression. The system includes **five core algorithms**.
 The project is written in **C**, and is built using a provided **Makefile**.
+
 
 - **Huffman Encoder** – Compresses a raw PGM image into a custom binary `.comp` format  
 - **Huffman Decoder** – Decompresses a `.comp` file back into a valid PGM image

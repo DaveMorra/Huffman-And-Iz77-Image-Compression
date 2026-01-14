@@ -20,7 +20,7 @@ The project is written in **C**, and is built using a provided **Makefile**.
 - **Huffman Decoder** – ADD MORE
 - **Huffman Decoder** – ADD MORE
 
-The images, makfile the libpnm library used in this project were provided by Professor **[Mahmoud R. El-Sakka](https://www.csd.uwo.ca/~melsakka/)**.
+The images, makefile the libpnm library used in this project were provided by Professor **[Mahmoud R. El-Sakka](https://www.csd.uwo.ca/~melsakka/)**.
 
 ---
 

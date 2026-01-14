@@ -4,8 +4,6 @@
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Technical Overview](#technical-overview)
 
 ---
 

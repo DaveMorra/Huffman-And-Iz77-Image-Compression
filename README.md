@@ -57,17 +57,17 @@ Compile the given project:
 make all
 ```
 ```
-./pgm_huffman_encode boats.raw.pgm boats.comp
+./pgm_huffman_encode <input_img.pgm> <output_code.comp>
 ```
 ```
-./pgm_huffman_decode rectangle.comp      rectangle.decomp.pgm
+./pgm_huffman_decode <input.comp> <output_img.pgm>
 ```
 ```
-./lz77_encoding boats.raw.pgm boats.comp
+./lz77_encoding <input_img.pgm> <output_code.comp>
 ```
 ```
-./lz77_decoding rectangle.comp      rectangle.decomp.pgm
+./lz77_decoding <input.comp> <output_img.pgm>
 ```
 ```
-./compare_pgm_images boats.raw.pgm boats.decomp.pgm
+./compare_pgm_images <img.raw.pgm> <img.decomp.pgm>
 ```

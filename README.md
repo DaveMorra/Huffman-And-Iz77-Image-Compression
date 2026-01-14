@@ -50,3 +50,24 @@ cd Huffman-And-Iz77-Image-Compression
 ```
 cd Huffman-And-Iz77-Image-Compression
 ```
+
+### Step 2: Compile and Run
+Compile the given project:
+```
+make all
+```
+```
+./pgm_huffman_encode boats.raw.pgm boats.comp
+```
+```
+./pgm_huffman_decode rectangle.comp      rectangle.decomp.pgm
+```
+```
+./lz77_encoding boats.raw.pgm boats.comp
+```
+```
+./lz77_decoding rectangle.comp      rectangle.decomp.pgm
+```
+```
+./compare_pgm_images boats.raw.pgm boats.decomp.pgm
+```

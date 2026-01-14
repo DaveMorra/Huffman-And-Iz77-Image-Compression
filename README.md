@@ -29,9 +29,9 @@ The images, makefile the libpnm library used in this project were provided by Pr
 Before building or running this project, ensure that you meet the following requirements:
 
 ### Software Dependencies
-- **GCC Compiler** (C99 compatible)
+- **GCC Compiler**
 - **GNU Make**
-- **Unix-based environment** (Linux or macOS recommended)
+- **Unix-based environment**
 
 ### Image Format
 - Input images must be **raw grayscale PGM files** (`.raw.pgm`)

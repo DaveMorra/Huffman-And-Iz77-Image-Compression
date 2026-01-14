@@ -39,13 +39,14 @@ Before building or running this project, ensure that you meet the following requ
 ## Setup
 
 ### Step 1: Clone the Repository
-
-Clone or download the repository to your local machine:
-
-```bash
+First, clone or download this repository to your local machine.
+```
 git clone https://github.com/DaveMorra/Huffman-And-Iz77-Image-Compression
-
-Navigate into the project directory and compile all executables using the provided Makefile:
-
-```bash
-make
+```
+Then, navigate to the source directory of your choice:
+```
+cd Huffman-And-Iz77-Image-Compression
+```
+```
+cd Huffman-And-Iz77-Image-Compression
+```

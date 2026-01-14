@@ -12,9 +12,8 @@
 ## Overview
 
 This project implements **lossless image compression and decompression** for grayscale PGM images using **Huffman** and **IZ77** compression. The system includes **five core algorithms**.
-The project is written in **C**, and is built using a provided **Makefile**.
-
-The images, makfile the libpnm library used in this project were provided by Professor **[https://www.csd.uwo.ca/~melsakka/](Mahmoud R. El-Sakka)**.
+The project is written in **C**, and is built using a provided **Makefile**.  
+The images, makfile the libpnm library used in this project were provided by Professor **[Mahmoud R. El-Sakka](https://www.csd.uwo.ca/~melsakka/)**.
 
 - **Huffman Encoder** – Compresses a raw PGM image into a custom binary `.comp` format  
 - **Huffman Decoder** – Decompresses a `.comp` file back into a valid PGM image

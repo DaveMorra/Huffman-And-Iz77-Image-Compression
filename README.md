@@ -18,7 +18,7 @@ The project is written in **C**, and is built using a provided **Makefile**.
 - **Iz77 Decoder** – Decompresses a `.comp` file back into a valid PGM image
 - **Mean Absolute Error** - Comparison tool To evaluate reconstruction accuracy between original and decompressed images.
 
-The images, makefile the libpnm library used in this project were provided by Professor **[Mahmoud R. El-Sakka](https://www.csd.uwo.ca/~melsakka/)**.
+The images, makefile the libpnm library used in this project were provided by Professor **[Mahmoud R. El-Sakka](https://www.csd.uwo.ca/~melsakka/)** and the **University of Western**.
 
 ---
 

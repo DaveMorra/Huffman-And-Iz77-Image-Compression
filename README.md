@@ -56,6 +56,8 @@ Compile the given project:
 ```
 make all
 ```
+
+### Encode/Decode PGM image using Huffman Code
 ```
 ./pgm_huffman_encode <input_img.pgm> <output_code.comp>
 ```
@@ -63,11 +65,15 @@ make all
 ./pgm_huffman_decode <input.comp> <output_img.pgm>
 ```
 ```
+
+### Encode/Decode PGM image using Iz77
 ./lz77_encoding <input_img.pgm> <output_code.comp>
 ```
 ```
 ./lz77_decoding <input.comp> <output_img.pgm>
 ```
+
+### Compare PGM Images
 ```
 ./compare_pgm_images <img.raw.pgm> <img.decomp.pgm>
 ```

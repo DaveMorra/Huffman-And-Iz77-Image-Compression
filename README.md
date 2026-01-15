@@ -64,9 +64,9 @@ Encode/Decode PGM image using Huffman Code:
 ```
 ./pgm_huffman_decode <input.comp> <output_img.pgm>
 ```
-```
 
 Encode/Decode PGM image using Iz77:
+```
 ./lz77_encoding <input_img.pgm> <output_code.comp>
 ```
 ```
